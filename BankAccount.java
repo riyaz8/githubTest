@@ -7,7 +7,7 @@ public class BankAccount {
     public int getAccountNumber()
     {
         return this.accountNumber;
-    }
+    }  
     public int getBalance()
     {
         return  this.balance;
